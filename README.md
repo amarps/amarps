@@ -14,8 +14,7 @@ Hi I'm Amar Panji Senjaya, a common programmer from Indonesia.
 -->
 [![Amar Panji's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarps)](https://github.com/amarps/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarps&hide=PLpgSQL,html&layout=compact&langs_count=10)](https://github.com/amarps/github-readme-stats)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarps)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarps&hide=PLpgSQL,html&layout=compact&langs_count=10)](https://github.com/amarps/github-readme-stats)
 
 feel free to contact me:
 - twiter [@AmrPanjiSenjaya](https://twitter.com/AmrPanjiSenjaya)

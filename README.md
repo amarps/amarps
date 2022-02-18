@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I'm Amar Panji Senjaya, a common programmer from Indonesia.
+Hi I'm Amar Panji Senjaya, an average programmer from Indonesia.
 
 - 🌱 I’m currently learning to write code with love.
 <!-- 

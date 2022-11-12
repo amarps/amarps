@@ -19,7 +19,7 @@ Hi I'm Amar Panji Senjaya, an average programmer from Indonesia.
 ![profile views](https://komarev.com/ghpvc/?username=amarps)
 
 contact me 👯:
-- linkedin: https://www.linkedin.com/in/amar-panji-senjaya-068026172
-- twitter: https://twitter.com/AmrPanjiSenjaya
-- facebook: https://web.facebook.com/kursi.roda.5473
+- [Linkedin](https://www.linkedin.com/in/amar-panji-senjaya-068026172)
+- [Twitter](https://twitter.com/AmrPanjiSenjaya)
+- [facebook](https://web.facebook.com/kursi.roda.5473)
 
